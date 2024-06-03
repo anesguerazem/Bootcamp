@@ -1,0 +1,32 @@
+ .p {
+    text-align: center;
+    font-family: serif;
+    color: black;
+  }
+  .tital {
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+  }
+  .appal {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    align-items: center;
+    width: 800px;
+   margin-left: 540px;
+
+  }
+  .span-tt {
+    color: black;
+    cursor: pointer;
+  }
+  .span-tt:hover {
+    text-decoration: underline;
+  }
+  .test {
+    color:rgb(75, 74, 74);
+    font-size: 14px;
+  }

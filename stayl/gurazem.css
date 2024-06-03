@@ -1,0 +1,148 @@
+.tital {
+    font-family: serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    display: inline;
+    margin-left: 450px;
+    vertical-align: top;
+    margin-top: 200PX;
+  
+  }
+  
+  .yy{
+    text-decoration: none;
+color: white;
+  }
+  
+  .ii{
+     background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+   }
+   .ii:hover{
+      background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+   }
+   .ii:active{
+     opacity: 0.7;
+   }
+   
+    .aaa {
+    background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+    
+  }
+  .aaa:hover {
+    background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+  }
+  .aaa:active {
+    opacity: 0.7;
+}
+
+.aaaa {
+    background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+    
+  }
+  .aaaa:hover {
+    background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+  }
+  .aaaa:active {
+    opacity: 0.7;
+}
+
+.aaaaa {
+    background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 1300px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+    
+  }
+  .aaaaa:hover {
+    background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+  }
+  .aaaaa:active {
+    opacity: 0.7;
+}
+ .tri{
+    background-color: black ;
+    height: 50px;
+  }
+.cabah1{
+  width: 300px;
+  height: 300px;
+  
+
+}
+.icbac{
+  width: 10px;
+  height: 10px;
+}
+.bat{
+ margin-left: 690px;
+}

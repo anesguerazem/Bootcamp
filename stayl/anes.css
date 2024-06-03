@@ -1,0 +1,183 @@
+ .yy{
+    text-decoration: none;
+color: white;
+  }
+  
+  .ii{
+     background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+   }
+   .ii:hover{
+      background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+   }
+   .ii:active{
+     opacity: 0.7;
+   }
+   
+    .aaa {
+    background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+    
+  }
+  .aaa:hover {
+    background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+  }
+  .aaa:active {
+    opacity: 0.7;
+}
+
+.aaaa {
+    background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+    
+  }
+  .aaaa:hover {
+    background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+  }
+  .aaaa:active {
+    opacity: 0.7;
+}
+
+.aaaaa {
+    background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 1300px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+    
+  }
+  .aaaaa:hover {
+    background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+  }
+  .aaaaa:active {
+    opacity: 0.7;
+}
+ .tri{
+    background-color: black ;
+    height: 50px;
+    
+  }
+
+  .oo{
+     text-align: center;
+  }
+  .abonner {
+    color: rgb(255, 255, 255);
+
+    background-color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    margin-right: 90px;
+    margin-left: 90px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    height: 50px;
+    width: 99px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .abonner:hover {
+    background-color: black;
+  }
+
+  .join {
+    background-color: white;
+    border-color: white;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+   
+
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    
+    border: none;
+
+    margin-right: 90px;
+    margin-left: 90px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+  }
+  .join:hover {
+    background-color: black;
+  }
+  .join:active {
+    background-color: red;
+  }

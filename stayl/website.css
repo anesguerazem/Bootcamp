@@ -1,0 +1,162 @@
+
+       
+  .yy{
+    text-decoration: none;
+color: white;
+  }
+
+  .ii{
+     background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+   }
+   .ii:hover{
+      background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+   }
+   .ii:active{
+     opacity: 0.7;
+   }
+   
+    .aaa {
+    background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+    
+  }
+  .aaa:hover {
+    background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+  }
+  .aaa:active {
+    opacity: 0.7;
+}
+
+.aaaa {
+    background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+    
+  }
+  .aaaa:hover {
+    background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+  }
+  .aaaa:active {
+    opacity: 0.7;
+}
+
+
+.aaaaa {
+    background-color: rgb(46, 225, 45);
+    color: white;
+    border-color: black;
+    border: 2px;
+    border-width: 10px;
+    border-radius: 10px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin-right: 0;
+    margin-left: 1300px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+    cursor: pointer;
+    
+  }
+  .aaaaa:hover {
+    background-color: rgb(63, 8, 114);
+    box-shadow: 4px 4px 20px black;
+  }
+  .aaaaa:active {
+    opacity: 0.7;
+}
+ .tri{
+    background-color: black ;
+    height: 50px;
+  }
+
+  .abonner {
+    color: rgb(255, 255, 255);
+
+    background-color: rgba(192, 4, 4, 0.808);
+    border: none;
+    height: 40px;
+    width: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .abonner:hover {
+    opacity: 0.8;
+  }
+  .abonner:active {
+    background-color: rgb(185, 158, 0);
+  }
+  .izem {
+    background-color: rgba(0, 0, 0, 0.842);
+    border-color: rgba(128, 255, 0, 0.705);
+    color: rgba(128, 255, 0, 0.774);
+    cursor: pointer;
+    border-radius: 5px;
+   padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    border-width: 2px;
+    
+  }  
+  .izem:active {
+    background-color: rgb(119, 88, 148);
+  }
+
